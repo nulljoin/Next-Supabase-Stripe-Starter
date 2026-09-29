@@ -1,17 +1,6 @@
 <p align="center">
   <h1 align="center">next-supabase-stripe-starter</h1>
-  <p align="center">
-    <a href="https://twitter.com/KolbySisk"><img src="/delete-me/github-banner.png" /></a>
-  </p>
-</p>
 
-<p align="center">
-  <a href="https://twitter.com/kolbysisk" rel="nofollow"><img src="https://img.shields.io/badge/created%20by-@kolbysisk-e57060.svg" alt="Created by Kolby Sisk"></a>
-  <a href="https://opensource.org/licenses/MIT" rel="nofollow"><img src="https://img.shields.io/github/license/kolbysisk/next-supabase-stripe-starter" alt="License"></a>
-</p>
-
-<p align="center">
-  <a href="https://next-supabase-stripe-starter-demo-mnqz.vercel.app" style="font-weight: bold; font-size: 20px; text-decoration: underline;">See the demo</a>
 </p>
 
 ## Introduction
@@ -190,10 +179,6 @@ Follow these steps when you're ready to go live:
 1. After Vercel has redeployed with your new env variables, run the fixture command using your Stripe sk
 
 ---
-
-## Support
-
-If you need help with the setup, or developing in the codebase, feel free to reach out to me on Twitter [@kolbysisk](https://twitter.com/KolbySisk) - I'm always happy to help.
 
 ## Contribute
 
